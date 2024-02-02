@@ -27,3 +27,4 @@ Ever wondered who's behind that Discord ID? Unmask the mystery with CordKiller -
 ⚠️ This tool is intended for educational purposes only. Use it at your own risk.
 
 ![image (7)](https://github.com/faketarek/Discord-IP-Puller/assets/157263151/3346fb28-a721-4289-830f-75b7bfbaa3f2)
+![image (8)](https://github.com/faketarek/Discord-IP-Puller/assets/157263151/c9450d49-3193-4539-9682-b568150e1b8b)
